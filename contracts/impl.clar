@@ -1,0 +1,1 @@
+(define-public (do-example (num uint)) (ok (+ num u1)))
